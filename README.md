@@ -27,7 +27,7 @@
 
 Hello everyone,
 
-I am offering an intensive **individual or group** online live training course via Microsoft Teams focused on data analytics. This comprehensive crash course is priced at TZS 300,000 and will be delivered over **two weeks**.
+I am offering an intensive **individual or group** online live training course via Microsoft Teams focused on data analytics. This comprehensive crash course is priced at TZS 300,000   and will be delivered over **two weeks each package**.
 
 **Objective:** This course aims to equip learners with the *practical skills* necessary to become *competent data analytics experts* across various fields, including business, healthcare, research, the military, scientific research, and more.
 
@@ -53,8 +53,7 @@ I am offering an intensive **individual or group** online live training course v
     * a. SAAS Platforms
     * b. Microsoft Excel
     * c. SPSS
-    * d. HISENSE (*Please verify the correct spelling or the intended software*)
-    * e. Power BI
+    * d. Power BI
 * V. Introduction to Data Models and Visualization Techniques
 
 **2. DATA COLLECTION, EXPLORATION, AND VISUALIZATION TECHNIQUES (TZS 50,000)**
