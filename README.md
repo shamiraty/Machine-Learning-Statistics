@@ -1,8 +1,6 @@
 ## MACHINE LEARNING & STATISTICS INDIVIDUAL LEARNING PROGRAM
+ ![0_kpDXp8PWuQ6mWAVJ](https://github.com/user-attachments/assets/92b612a3-a9d6-4ff2-a981-4ccc518d69f0)
 
-![ChatGPT Image Apr 3, 2025, 10_28_32 AM](https://github.com/user-attachments/assets/2d316a2e-5490-45c7-b74e-1300bd86ef14)
-
-  
 - 📍 **Location**: Dodoma, Tanzania
 - 📧 **Email**: [sashashamsia@gmail.com](mailto:sashashamsia@gmail.com)
 - 📱 **WhatsApp**: [+255675839840](https://wa.me/255675839840)
@@ -21,10 +19,10 @@
 | 👨‍💼 | 7    | Medical Directors                                          |
 | 💊  | 8    | Pharmacists                                                 |
 | 🏥  | 9    | Clinic Administrators                                        |
-| 🎓  | 10   | Medical Educators (Professors of medicine)                   |
-| 🎓  | 10   | Software Developers                   |
-| 🎓  | 10   | Scientific Researchers                  |
-| 🎓  | 10   | Statistician                   |
+| 🎓  | 11   | Medical Educators (Professors of medicine)                   |
+| 🎓  | 12   | Software Developers                   |
+| 🎓  | 13   | Scientific Researchers                  |
+| 🎓  | 14   | Statistician                   |
 
 Hello everyone,
 
