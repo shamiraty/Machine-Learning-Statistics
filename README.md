@@ -24,84 +24,17 @@
 | 🎓  | 10   | Scientific Researchers                  |
 | 🎓  | 10   | Statistician                   |
 
-hellow everyone, i have prepared individual or group training through online live Microsoft Teams  for 300,000 crash cource  that will take two weeks 
+Hello everyone,
 
-- objective is to give learners  practical to become compitent data analytics  expart in any field,  can be in business, health, research, military, scientific research or any other field 
-- No certificate upon completion
-- ni makubaliano ya wewe na mwalimu
-- kama wewe tayari ni data analytics  na unataka tu deployment  chagua package ya mwisho
+I am offering an intensive individual or group online live training course via Microsoft Teams focused on data analytics. This comprehensive crash course is priced at TZS 300,000 and will be delivered over two weeks.
 
-1. INTRUDUCTION TO BUSINESS ANALYTICS  (TZS  50,000)
-   - introduction
-   - statistics
-   - descreptive, predictive, diagnostics  statistics
-   - Business Analytics 
-   - softwares  SAAS, EXCEL, SPSS, HISENSE, POWER BI
-   - Data models and Visualization Techniques
-   
- 2. DATA COLLECTION, EXPLORATION AND VISUALIZATION Techniques  (TZS  50,000)
-    - Data sources
-	- Data anormalies
-	- Data Anormalies detection and Treatment techniques (Data cleaning)
-	- Data modelling and Transformation
-
-3. BUSINESS ANALYTICS STEPS  (TZS  50,000)
-    - problem definition
-	- data collection ( Data types: Qualitative: Descrete and Continous data can be grouped or ungrouped, Qualitative: Categorical data)
-	- data cleaning, modelling and transformation (Winsorization, Isolation Forest, Contamination, Normal Distribution, Percentile, QUartiles and Box plots)
-	- business analytics model selection (Decision Tree, K-Means, K-Neighbors, Analysis of variance, logistic Regression, Multiple Linear Regression, Random Forest, Frequency Distribution, Chi Square Test, Z test, T distribution Test, F test, Mean, Mode, Median, Skewness and Kurtosis, Probability Density PDF) 
-	- model training ( feature splitting and selection)
-	- prediction 
-	- model performance evaluation (accuracy score)
-	- model optimization
-	- model deployment (FLASK, DJANGO, MSQL, SQL-LITE, STREAMLIT)
-
-4. ONLINE DATA COLLECTION & POPULATION ANALYSIS
-    - Automated data collection techniques (Google forms, Google Spreedsheets, Django survey)
-	- Fake Data Generation (for experiment)
-	- Estimation of population Parameters
-	- Testing Hypothesis
-    - sampling Errors
-    
-5. DATA EXPLORATION TOOLS  (TZS  50,000)
-    - Scatter plots
-    - Pie charts
-    - Simple Bar graph	& Line Graphs
-	- Multiple Stacked Column / Bar graph
-	- Meter Gauge Chart
-	- Box plots
-	- Normal Distribution graph
-	- Dot plots
-	- Divegent graph
-	-
-6.  ANALYTICAL SOFTWARES INSTALLATION AND USAGE OR IMPLEMENTATION OF MODELS(TZS  50,000)
-
-   - Microsoft Excel 
-   - Google Colab
-   - Juypiter Lab (anaconda)
-   - Flask Web framework
-   - Django Web Framework
-   - Streamlit Data science Library
-   - TensorFLow, Pandas, SKitlearn, Scipy, Numpy, 
-   - Microsoft Visual Studio
-   - HTML, CSS, JAVASCRIPT,BOOTSTRAP, MYSQL, PYTHON,
-   
-	
- -----------------------------------------------------------------------------
- SOURCE CODE
- 
- 
- Hello everyone,
-
-I am offering individual or group online live training via Microsoft Teams for a comprehensive data analytics crash course priced at TZS 300,000. This intensive program will run for two weeks.
-
-**Objective:** The aim of this course is to equip learners with practical skills to become competent data analytics experts in any field, including but not limited to business, healthcare, research, military, and scientific research.
+**Objective:** This course aims to equip learners with the practical skills necessary to become competent data analytics experts across various fields, including business, healthcare, research, the military, scientific research, and more.
 
 **Important Notes:**
 
-* No certificate will be issued upon completion of this course.
-* Enrollment is based on a mutual agreement between you and the instructor.
-* If you are already a data analytics professional and are solely interested in model deployment, please select the final package.
+* Please note that a certificate will not be issued upon completion of this training.
+* Enrollment in this course is based on a mutual understanding and agreement between you and the instructor.
+* If you are already a data analytics professional and are primarily interested in learning about model deployment techniques, please consider selecting the final package.
 
 ---
 
@@ -114,56 +47,56 @@ I am offering individual or group online live training via Microsoft Teams for a
     * Descriptive Statistics
     * Predictive Statistics
     * Diagnostic Statistics
-* Understanding Business Analytics
+* Understanding Business Analytics Principles
 * Overview of Analytical Software:
     * SAAS Platforms
     * Microsoft Excel
     * SPSS
-    * HISENSE (Note: Please verify the correct spelling or intended software)
+    * HISENSE (Please verify the correct spelling or the intended software)
     * Power BI
-* Data Models and Visualization Techniques
+* Introduction to Data Models and Visualization Techniques
 
-**2. DATA COLLECTION, EXPLORATION AND VISUALIZATION TECHNIQUES (TZS 50,000)**
+**2. DATA COLLECTION, EXPLORATION, AND VISUALIZATION TECHNIQUES (TZS 50,000)**
 
-* Data Sources
-* Identifying Data Anomalies
-* Data Anomaly Detection and Treatment Techniques (Data Cleaning)
-* Data Modeling and Transformation
+* Identifying Various Data Sources
+* Understanding and Identifying Data Anomalies
+* Data Anomaly Detection and Treatment Techniques (Data Cleaning Processes)
+* Data Modeling and Transformation Fundamentals
 
 **3. BUSINESS ANALYTICS STEPS (TZS 50,000)**
 
-* Problem Definition
-* Data Collection:
+* Defining Business Problems Clearly
+* Data Collection Methods:
     * Data Types:
-        * Quantitative: Discrete and Continuous data (can be grouped or ungrouped)
-        * Qualitative: Categorical data
+        * Quantitative Data: Discrete and Continuous (can be grouped or ungrouped)
+        * Qualitative Data: Categorical data
 * Data Cleaning, Modeling, and Transformation Techniques:
     * Winsorization
     * Isolation Forest
-    * Contamination Handling
-    * Understanding Normal Distribution
-    * Percentiles
-    * Quartiles and Box Plots
+    * Handling Contamination in Data
+    * Understanding and Applying Normal Distribution Concepts
+    * Working with Percentiles
+    * Understanding Quartiles and Utilizing Box Plots
 * Business Analytics Model Selection:
-    * Decision Tree
+    * Decision Tree Analysis
     * K-Means Clustering
-    * K-Nearest Neighbors
+    * K-Nearest Neighbors Algorithm
     * Analysis of Variance (ANOVA)
     * Logistic Regression
     * Multiple Linear Regression
-    * Random Forest
-    * Frequency Distribution
+    * Random Forest Algorithm
+    * Frequency Distribution Analysis
     * Chi-Square Test
     * Z-test
     * T-distribution Test
     * F-test
     * Measures of Central Tendency (Mean, Mode, Median)
     * Measures of Dispersion (Skewness and Kurtosis)
-    * Probability Density Function (PDF)
-* Model Training: Feature Splitting and Selection
-* Prediction
-* Model Performance Evaluation (Accuracy Score)
-* Model Optimization
+    * Understanding Probability Density Function (PDF)
+* Model Training: Feature Splitting and Selection Strategies
+* Making Predictions Based on Models
+* Model Performance Evaluation using Accuracy Scores
+* Techniques for Model Optimization
 * Model Deployment Technologies:
     * FLASK
     * DJANGO
@@ -176,44 +109,44 @@ I am offering individual or group online live training via Microsoft Teams for a
 * Automated Data Collection Techniques:
     * Google Forms
     * Google Sheets
-    * Django Survey
-* Fake Data Generation (for experimentation purposes)
+    * Django Survey Applications
+* Generating Synthetic Data for Experimentation
 * Estimation of Population Parameters
-* Hypothesis Testing
-* Sampling Errors
+* Principles of Hypothesis Testing
+* Understanding and Addressing Sampling Errors
 
 **5. DATA EXPLORATION TOOLS (TZS 50,000)**
 
-* Scatter Plots
-* Pie Charts
-* Simple Bar Graphs & Line Graphs
-* Multiple Stacked Column / Bar Graphs
-* Meter Gauge Charts
-* Box Plots
-* Normal Distribution Graphs
-* Dot Plots
-* Divergent Graphs
+* Creating and Interpreting Scatter Plots
+* Utilizing Pie Charts Effectively
+* Generating and Analyzing Simple Bar Graphs & Line Graphs
+* Constructing and Understanding Multiple Stacked Column / Bar Graphs
+* Using Meter Gauge Charts for Visualization
+* Creating and Interpreting Box Plots
+* Visualizing Normal Distribution Graphs
+* Utilizing Dot Plots for Data Exploration
+* Creating and Interpreting Divergent Graphs
 
 **6. ANALYTICAL SOFTWARE INSTALLATION AND USAGE OR IMPLEMENTATION OF MODELS (TZS 50,000)**
 
-* Microsoft Excel
-* Google Colab
-* Jupyter Lab (Anaconda Distribution)
-* Flask Web Framework
-* Django Web Framework
-* Streamlit Data Science Library
+* Practical Application of Microsoft Excel for Data Analysis
+* Utilizing Google Colab for Data Science Tasks
+* Setting up and Using Jupyter Lab (via Anaconda Distribution)
+* Introduction to Flask Web Framework for Deployment
+* Introduction to Django Web Framework for Deployment
+* Leveraging Streamlit Data Science Library for Application Building
 * Key Python Libraries for Data Science:
     * TensorFlow
     * Pandas
     * Scikit-learn (SKlearn)
     * SciPy
     * NumPy
-* Microsoft Visual Studio (for potential development tasks)
-* Basic Web Development Technologies (for deployment):
+* Introduction to Microsoft Visual Studio (for potential development purposes)
+* Basic Web Development Technologies (relevant for deployment):
     * HTML
     * CSS
     * JavaScript
     * Bootstrap
-* Database Technologies:
+* Introduction to Database Technologies:
     * MySQL
-    * Python (as the primary programming language for many data science tasks)
+    * Python (as the primary programming language for data science workflows)
