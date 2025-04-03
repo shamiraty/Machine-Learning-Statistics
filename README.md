@@ -1,7 +1,6 @@
 ## MACHINE LEARNING & STATISTICS INDIVIDUAL LEARNING PROGRAM
 
- ![critical_value1729371752870430447](https://github.com/user-attachments/assets/5481542e-61f1-4acb-81ac-036eb435c2a9)
-
+ ![f126](https://github.com/user-attachments/assets/3a9ae8cf-9271-4d71-8801-92c81ea44152)
 
 - 📍 **Location**: Dodoma, Tanzania
 - 📧 **Email**: [sashashamsia@gmail.com](mailto:sashashamsia@gmail.com)
