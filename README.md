@@ -1,6 +1,8 @@
 ## MACHINE LEARNING & STATISTICS INDIVIDUAL LEARNING PROGRAM
 
-  ![machine-learning_2](https://github.com/user-attachments/assets/88ef71ad-7a13-46ff-bbd4-a375dd6ecdb2)
+![ChatGPT Image Apr 3, 2025, 10_28_32 AM](https://github.com/user-attachments/assets/2d316a2e-5490-45c7-b74e-1300bd86ef14)
+
+  
 - 📍 **Location**: Dodoma, Tanzania
 - 📧 **Email**: [sashashamsia@gmail.com](mailto:sashashamsia@gmail.com)
 - 📱 **WhatsApp**: [+255675839840](https://wa.me/255675839840)
